@@ -33,7 +33,7 @@ The dataset consists of two tables that need to be joined based on date ranges:
 | **SQL** | Large datasets | Simplest, most efficient approach |
 | **Excel** | Quick analysis | FILTER function beats complex lookups |
 | **Python** | Complex logic | Flexible but more verbose than SQL |
-| **Power BI** | Dashboards | Challenging syntax but powerful results |
+| **Power BI** | Dashboards | Excel-like functions with enhanced context handling |
 
   <br><br>
 ## 💡 Real-World Use Cases
